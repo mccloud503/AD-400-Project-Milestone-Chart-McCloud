@@ -38,7 +38,7 @@ Watch the project overview and milestone walkthrough here:
 📺 [YouTube Video Link](https://youtube.com/your-link-here)
 
 ## Tools Used
-- Google Sheets (for milestone chart)
+- AirTable (for milestone chart)
 - GitHub (for version control and submission)
 - QuickTime Player (for screen recording)
 - Google Docs/Slides (for planning and script)
@@ -46,5 +46,5 @@ Watch the project overview and milestone walkthrough here:
 ## Author
 Clarissa McCloud  
 North Seattle College  
-Project Management Fundamentals - Spring 2025
+AD 400 - Spring 2025
 
