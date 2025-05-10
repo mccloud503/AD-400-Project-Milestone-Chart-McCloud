@@ -35,7 +35,7 @@ The goal of this project is to:
 
 ## Video Presentation
 Watch the project overview and milestone walkthrough here:  
-📺 [YouTube Video Link](https://youtube.com/your-link-here)
+📺 [[YouTube Video Link](https://youtube.com/your-link-here)](https://youtu.be/0telnOl6UcA)
 
 ## Tools Used
 - AirTable (for milestone chart)
