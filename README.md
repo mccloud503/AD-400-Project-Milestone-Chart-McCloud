@@ -30,7 +30,7 @@ The goal of this project is to:
 | Depart for Europe                         | November 5, 2025        | Planned      | All previous milestones met    |
 
 ## Files Included
-- `milestone_chart.xlsx`: Chart of all milestones with descriptions, dates, and status.
+- (https://airtable.com/appoHVUDfO36Vbm54/shrqnKoD50sgukLvl): Chart of all milestones with descriptions, dates, and status.
 - `README.md`: Project summary and assignment documentation.
 
 ## Video Presentation
