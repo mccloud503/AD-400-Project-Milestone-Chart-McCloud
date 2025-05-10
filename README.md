@@ -31,11 +31,10 @@ The goal of this project is to:
 
 ## Files Included
 - (https://airtable.com/appoHVUDfO36Vbm54/shrqnKoD50sgukLvl): Chart of all milestones with descriptions, dates, and status.
-- `README.md`: Project summary and assignment documentation.
 
 ## Video Presentation
 Watch the project overview and milestone walkthrough here:  
-📺 [[YouTube Video Link](https://youtube.com/your-link-here)](https://youtu.be/0telnOl6UcA)
+📺 (https://youtube.com/your-link-here)](https://youtu.be/0telnOl6UcA)
 
 ## Tools Used
 - AirTable (for milestone chart)
